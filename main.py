@@ -6,7 +6,7 @@ import time
 # Movement sensitivity threshold
 DELTA = 25
 # Inactivity timeout in seconds before lifting
-IDLE_TIMEOUT = 5
+IDLE_TIMEOUT = 90
 # Number of steps for the elevation mechanism
 STEPS_TO_MOVE = 130
 # Stepper Motor 1 Pins
